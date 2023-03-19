@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm PradeepBollepalli</h1>
 <h3 align="center">A passionate Student | AWS & DevOps Engineer from India</h3>
+<img align="right" alt="Coding" width="200" src="https://www.capgemini.com/be-en/wp-content/uploads/sites/17/2019/09/DEVOPS.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepbollepalli&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepbollepalli" /> </p>
 
