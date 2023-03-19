@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepbollepalli&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepbollepalli" /> </p>
 
-- 🌱 I’m currently learning **Python,DevOps & AWS**
+- 🌱 I’m currently learning **Python,DevOps & AWS.**
 
-- 💬 Ask me about **DevOps and Aws**
+- 💬 Ask me about **DevOps and AWS.**
 
 - 📫 How to reach me **Spradeepb1999@gmail.com**
 
