@@ -4,9 +4,6 @@
 <h1 align="center">Hi 👋, I'm PradeepBollepalli.</h1>
 <h3 align="center">A passionate Student | AWS & DevOps Engineer from India.</h3>
 
-<img align="right" width="150" height="120" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepbollepalli&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepbollepalli" /> </p>
@@ -16,6 +13,7 @@
 - 💬 Ask me about **DevOps and AWS.**
 
 - 📫 How to reach me **spradeepb1999@gmail.com**
+  <img align="right" width="150" height="120" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
