@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm PradeepBollepalli.</h1>
 <h3 align="center">A passionate Student | AWS & DevOps Engineer from India.</h3>
 
+<img align="right" width="150" height="120" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
 
 
 
