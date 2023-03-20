@@ -1,4 +1,6 @@
-<img align="centre" src="https://media.istockphoto.com/id/1303169188/photo/devops-concept.jpg?s=1024x1024&w=is&k=20&c=lE1R4vMF7SfZHzblmz8iuTiOFoCGyxfIWVRs-9zzJUU=" width="1100" height="180"/> 
+<a href="https://www.linkpicture.com/view.php?img=LPic6418178a9d45d1726466527"><img align="centre" width="1100"
+  heiht="30" src="https://www.linkpicture.com/q/sai-pradeep.png" type="image"> 
+
 <h1 align="center">Hi 👋, I'm PradeepBollepalli.</h1>
 <h3 align="center">A passionate Student | AWS & DevOps Engineer from India.</h3>
 
