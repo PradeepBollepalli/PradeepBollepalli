@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PradeepBollepalli</h1>
 <h3 align="center">A passionate Student | AWS & DevOps Engineer from India</h3>
 
-<img align="right" height="300" width="400" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="400" height="300"/> 
+<img align="right" height="300" width="400" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="500" height="400"/> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepbollepalli&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepbollepalli" /> </p>
