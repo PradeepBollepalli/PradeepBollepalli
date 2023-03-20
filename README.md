@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PradeepBollepalli</h1>
 <h3 align="center">A passionate Student | AWS & DevOps Engineer from India</h3>
 
-<img align="right" src="https://media.istockphoto.com/id/1303169188/photo/devops-concept.jpg?s=1024x1024&w=is&k=20&c=lE1R4vMF7SfZHzblmz8iuTiOFoCGyxfIWVRs-9zzJUU=" width="500" height="300"/> 
+<img align="right" src="https://media.istockphoto.com/id/1303169188/photo/devops-concept.jpg?s=1024x1024&w=is&k=20&c=lE1R4vMF7SfZHzblmz8iuTiOFoCGyxfIWVRs-9zzJUU=" width="350" height="250"/> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepbollepalli&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepbollepalli" /> </p>
